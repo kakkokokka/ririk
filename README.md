@@ -1,2 +1,13 @@
 # ririk
-riri riri ririk
+
+## data
+
+* riri
+* riri
+* ririk
+* riki
+* riki
+
+## algorithm
+
+## changes
