@@ -4,7 +4,7 @@
 
 * riri
 * riri
-* ririk
+* rirics
 * riki
 * riki
 * riki
